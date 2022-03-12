@@ -1,4 +1,16 @@
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Devin][https://devintheengineer.com/]
+<div align="center">
+  <h1>Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height='40' width='40'>, I'm Devin!</h1>
+</div>
+<div align="center">
+  <p> ’m currently exploring new things and working on personal projects. I am passionate about learning Python, C++, SQL andData Science. I hope you enjoy my repositories, and please feel free to connect with me!  </p>
+</div>s
+<div align="center">
+<h3>So, Connect with me </h3>
+  
+  <a href="https://www.linkedin.com/in/devinjpowers"><img src="https://img.icons8.com/offices/50/000000/linkedin.png"/></a>
+  <a href="https://devintheengineer.com/"><img src="https://img.icons8.com/ios-filled/50/4a90e2/codepen.png"/></a>
+ </div>
+
 
 
 [![Devin's GitHub stats](https://github-readme-stats.vercel.app/api?username=devinpowers)](https://github.com/anuraghazra/github-readme-stats)
