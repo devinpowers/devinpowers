@@ -7,7 +7,7 @@
 <div align="center">
 <h3>So, Connect with me here: </h3>
   <a href="https://www.linkedin.com/in/devinjpowers"><img src="https://img.icons8.com/offices/50/000000/linkedin.png"/></a>
-  <a href="https://devintheengineer.com/"><img src="https://img.icons8.com/ios-filled/50/4a90e2/codepen.png"/></a>
+  <a href="https://devintheengineer.com/"><img src="<img src="https://img.icons8.com/ios-glyphs/50/000000/user-male-circle.png"/>"/></a>
  </div>
 
 
