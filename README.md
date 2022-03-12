@@ -7,10 +7,11 @@
 <div align="center">
 <h3>So, Connect with me here: </h3>
   <a href="https://www.linkedin.com/in/devinjpowers"><img src="https://img.icons8.com/offices/50/000000/linkedin.png"/></a>
-  <a href="https://devintheengineer.com/"><img src="<img src="https://img.icons8.com/ios-glyphs/50/000000/user-male-circle.png"/>"/></a>
+  <a href="https://devintheengineer.com/"><img src="<img src="https://icons8.com/icon/77883/male-user">Male User icon by Icons8"/>"/></a>
  </div>
 
 
+<a href="https://icons8.com/icon/77883/male-user">Male User icon by Icons8</a>
 
 [![Devin's GitHub stats](https://github-readme-stats.vercel.app/api?username=devinpowers)](https://github.com/anuraghazra/github-readme-stats)
 
