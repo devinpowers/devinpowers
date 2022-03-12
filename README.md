@@ -3,10 +3,9 @@
 </div>
 <div align="center">
   <p> ’m currently exploring new things and working on personal projects. I am passionate about learning Python, C++, SQL andData Science. I hope you enjoy my repositories, and please feel free to connect with me!  </p>
-</div>s
+</div>
 <div align="center">
-<h3>So, Connect with me </h3>
-  
+<h3>So, Connect with me here: </h3>
   <a href="https://www.linkedin.com/in/devinjpowers"><img src="https://img.icons8.com/offices/50/000000/linkedin.png"/></a>
   <a href="https://devintheengineer.com/"><img src="https://img.icons8.com/ios-filled/50/4a90e2/codepen.png"/></a>
  </div>
