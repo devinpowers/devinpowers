@@ -9,6 +9,10 @@
   <a href="https://www.linkedin.com/in/devinjpowers"><img src="https://img.icons8.com/offices/50/000000/linkedin.png"/></a>
 
 
+  <a href="https://www.devintheengineer.com"><img src="https://icons8.com/icon/IdJjZZxPb6Mi/jake"/></a>
+  
+  
+  
 [![Devin's GitHub stats](https://github-readme-stats.vercel.app/api?username=devinpowers)](https://github.com/anuraghazra/github-readme-stats)
 
 
