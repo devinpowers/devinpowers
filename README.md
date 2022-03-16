@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/devinjpowers"><img src="https://img.icons8.com/offices/50/000000/linkedin.png"/></a>
 
 
-  <a href="https://www.devintheengineer.com"><img src="https://icons8.com/icon/IdJjZZxPb6Mi/jake"/></a>
+  <a href="https://www.devintheengineer.com"><img src="https://img.icons8.com/office/16/000000/jake--v2.png"/></a>
   
   
   
