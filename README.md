@@ -2,7 +2,7 @@
   <h1>Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height='40' width='40'>, I'm Devin!</h1>
 </div>
 <div align="center">
-  <p> ’m currently exploring new things and working on personal projects. I am passionate about learning Python, C++, SQL andData Science. I hope you enjoy my repositories, and please feel free to connect with me!  </p>
+  <p> ’m currently exploring new things and working on personal projects. I am passionate about learning Python, C++, SQL and Data Science. I hope you enjoy my repositories, and please feel free to connect with me!  </p>
 </div>
 <div align="center">
 <h3>So, Connect with me here: </h3>
