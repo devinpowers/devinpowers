@@ -1,18 +1,7 @@
 <div align="center">
   <h1>Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height='40' width='40'>, I'm Devin!</h1>
 </div>
-<div align="center">
-  <p> ’m currently exploring new things and working on personal projects. I am passionate about learning Python, C++, SQL and Data Science. I hope you enjoy my repositories, and please feel free to connect with me!  </p>
-</div>
-<div align="center">
-<h3>So, Connect with me here: </h3>
-  <a href="https://www.linkedin.com/in/devinjpowers"><img src="https://img.icons8.com/offices/50/000000/linkedin.png"/></a>
 
-
-  <a href="https://www.devintheengineer.com"><img src="https://img.icons8.com/office/50/000000/jake--v2.png"/></a>
-  
-  
-  
 [![Devin's GitHub stats](https://github-readme-stats.vercel.app/api?username=devinpowers)](https://github.com/anuraghazra/github-readme-stats)
 
 
